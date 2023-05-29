@@ -20,9 +20,9 @@
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Errors are the positive sign of progress!!
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I love food:)
 
 ## 🛠️ Technologies and Tools I use:
 
