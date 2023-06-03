@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `ML`
+- 🤔 I’m looking for help with `ML Projects`
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
