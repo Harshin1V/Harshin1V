@@ -10,7 +10,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://resume-harshin1v.vercel.app/)**
 
-- 🔭 I’m currently working on `Cool Projects`.
+- 🔭 I’m currently working on `Cool Projectzz`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
