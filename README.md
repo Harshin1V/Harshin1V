@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on `Cool Projectzz`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `ML-DL`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `DL Projects`
 
 - 🤔 I’m looking for help with `ML Projects`
 
