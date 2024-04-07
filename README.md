@@ -18,8 +18,6 @@
 
 - 🤔 I’m looking for help with `ML Projects`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
 - 👨‍💻 Life Hack: Errors are the positive sign of progress!!
 
 - ⚡ Fun fact: I love food:)
