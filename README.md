@@ -1,39 +1,44 @@
-# 👋 Hi there, I'm Harshini!
+# Hey there!👋
 
-I'm a passionate Machine Learning and Deep Learning developer. I enjoy exploring state-of-the-art technologies in **NLP**, **Computer Vision**, and Generative AI, and I love collaborating on exciting, real-world AI projects.
+Aspiring AI and Machine Learning Engineer with hands-on experience in building practical AI applications. Passionate about leveraging AI for real-world solutions and contributing to cutting-edge projects. I have a strong background in natural language processing, computer vision, and model optimization.
 
+## 🔎 Interests
 
----
+- AI and Machine Learning
+- Natural Language Processing (NLP)
+- Computer Vision (CV)
+- Model Optimization
+- Generative AI
 
-## 🔧 Technical Skills
+## 🚀 Skills
 
-- **Languages:** Python, C/C ++, SQL
-- **ML/DL Frameworks:** PyTorch, TensorFlow, scikit-learn,Maths and Optimization.
-- **Data Engineering:** PySpark, Apache Kafka
-- **Dev Tools:** Git, GitHub, Jupyter Notebook, Google Collab, VS Code, Streamlit and PySpark.
+- **Programming Languages:** Python
+- **Libraries and Frameworks:** PyTorch, TorchVision, TorchAudio, Transformers, BitsAndBytes, Accelerate, SentencePiece, HuggingFace Hub, SciPy, NumPy, FAISS
+- **AI Tools and Libraries:** Streamlit, Ray, NLTK, PdfPlumber, Sentence Transformers, LangChain (Community, Core, Ollama), Ollama, TRL, PEFT, Markdown, IPython
 
+## 🛠️ Projects
 
-## 🌟 Featured Projects
+### 1. **Hybrid RAG System using Mistral and SBERT with RLHF**
 
-1. **Detecting bullying Tweets using LSTM & BERT**
-   - Developed a cyberbullying detection model using Naive Bayes, LSTM with Attention, and BERT, categorizing tweets by themes like religion, age, race, and gender.
-   - Achieved high accuracy with BERT, significantly outperforming LSTM, reaching around 95% accuracy and F1 scores above 95%.
+- Developed a Retrieval-Augmented Generation (RAG) system using Mistral and SBERT.
+- Implemented Reinforcement Learning with Human Feedback (RLHF) to enhance response generation.
+- Optimized system for multilingual query understanding.
 
-2.  **Detect Fake Tasks using CGAN**
-       - Developed a two-level classification approach using a Discriminator to filter fake data in mobile crowdsourcing, followed by AdaBoost and Random Forest to classify real tasks accurately.
-       - Improved model performance significantly by removing fake data, restoring AdaBoost and Random Forest accuracies to near-original levels (0.926 and 0.993, respectively).
+### 2. **Meeting Minutes and Action Items Generator**
 
-3.  **Lottery Ticket Hypothesis**  
-       - Implemented the Lottery Ticket Hypothesis to identify sparse, trainable subnetworks within dense neural networks that can achieve similar accuracy independently.
-       - Using iterative pruning, these "winning ticket" subnetworks were able to retain high accuracy while reducing the model to only 10-20% of its original size, enabling efficient training and storage.
+- Built an AI-powered meeting assistant using Whisper and LLaMA models.
+- Automated generation of structured meeting summaries with action items.
+- Integrated with Streamlit for an interactive user experience.
 
----
+### 3. **Efficient Neural Network Pruning using the Lottery Ticket Hypothesis**
 
-## 📫 Connect with Me
+- Applied iterative pruning based on the Lottery Ticket Hypothesis for model compression.
+- Achieved significant reduction in model size with minimal accuracy loss.
+- Visualized performance metrics to demonstrate pruning efficiency.
 
-- [Portfolio](https://harshin1portfolio.streamlit.app/)
-- [LinkedIn](https://www.linkedin.com/in/harshini-vutukuri-a4b16321a/)
-- [Email](mailto:harshinivutukuri1@gmail.com)
+## 📫 Contact Me
 
+- **LinkedIn:** [linkedin.com/in/harshini-vutukuri](https://linkedin.com/in/harshini-vutukuri)
+- **Email:** [harshinivutukuri@example.com](mailto:harshinivutukuri@example.com)
 
-Looking forward to collaborating on innovative AI projects!
+Let's connect and collaborate on AI innovations!
