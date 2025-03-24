@@ -1,6 +1,6 @@
 # Hey there!👋
 
-Aspiring AI and Machine Learning Engineer with hands-on experience in building practical AI applications. Passionate about leveraging AI for real-world solutions and contributing to cutting-edge projects. I have a strong background in natural language processing, computer vision, and model optimization.
+AI and Machine Learning Engineer with hands-on experience in building practical AI applications. Passionate about leveraging AI for real-world solutions and contributing to cutting-edge projects. I have a strong background in natural language processing, computer vision, and model optimization.
 
 ## 🔎 Interests
 
