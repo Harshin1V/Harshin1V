@@ -14,7 +14,8 @@ AI and Machine Learning Engineer with hands-on experience in building practical 
 
 - **Programming Languages:** Python
 - **Libraries and Frameworks:** PyTorch, TorchVision, TorchAudio, Transformers, BitsAndBytes, Accelerate, SentencePiece, HuggingFace Hub, SciPy, NumPy, FAISS
-- **AI Tools and Libraries:** Streamlit, Ray, NLTK, PdfPlumber, Sentence Transformers, LangChain (Community, Core, Ollama), Ollama, TRL, PEFT, Markdown, IPython
+- **AI Tools and Libraries:** Streamlit, Ray, NLTK, PdfPlumber, Sentence Transformers, LangChain (Community, Core, Ollama), Ollama, TRL, IPython
+- **LLM Fine-Tuning & Optimization:** LoRA, QLoRA, PEFT (Parameter-Efficient Fine-Tuning), Prompt Tuning, Retriever Evaluation, Familiar with Axolotl
 
 ## 📫 Contact Me
 
