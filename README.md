@@ -1,5 +1,5 @@
 # Hey there!👋
-Fueled by a deep-seated passion for Artificial Intelligence, I am an ML developer dedicated to transform innovative ideas into impactful solutions.  **Let’s connect!**
+Fueled by a deep-seated passion for Artificial Intelligence, I am a ML developer dedicated to transform innovative ideas into impactful solutions.  **Let’s connect!**
 
 ## 🔎 Interests
 
