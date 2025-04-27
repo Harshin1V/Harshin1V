@@ -1,6 +1,5 @@
 # Hey there!👋
-
-AI and Machine Learning Engineer with hands-on experience in building practical AI applications. Passionate about leveraging AI for real-world solutions and contributing to cutting-edge projects. I have a strong background in natural language processing, computer vision, and model optimization.
+Fueled by a deep-seated passion for Artificial Intelligence, I am an ML developer dedicated to transform innovative ideas into impactful solutions.  **Let’s connect!**
 
 ## 🔎 Interests
 
