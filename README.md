@@ -4,11 +4,10 @@ AI and Machine Learning Engineer with hands-on experience in building practical 
 
 ## 🔎 Interests
 
-- AI and Machine Learning
-- Natural Language Processing (NLP)
-- Computer Vision (CV)
+- Agentic AI, Gen AI, and Reinforcement Learning (RL)
+- Natural Language Processing (NLP)& Computer Vision (CV)
+- State-of-the-art AI models
 - Model Optimization
-- Generative AI
 
 ## 🚀 Skills
 
