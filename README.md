@@ -9,11 +9,27 @@ Fueled by a deep-seated passion for Artificial Intelligence, I am an ML develope
 - Model Optimization
 
 ## 🚀 Skills
+**Languages:**  Python, SQL
 
-- **Programming Languages:** Python
-- **Libraries and Frameworks:** PyTorch, TorchVision, TorchAudio, Transformers, BitsAndBytes, Accelerate, SentencePiece, HuggingFace Hub, SciPy, NumPy, FAISS
-- **AI Tools and Libraries:** Streamlit, Ray, NLTK, PdfPlumber, Sentence Transformers, LangChain (Community, Core, Ollama), Ollama, TRL, IPython
-- **LLM Fine-Tuning & Optimization:** LoRA, QLoRA, PEFT (Parameter-Efficient Fine-Tuning), Prompt Tuning, Retriever Evaluation, Familiar with Axolotl
+**ML/DL Frameworks:**  TensorFlow, Keras, PyTorch, Scikit-Learn, Hugging Face
+
+**ML Techniques:**  Supervised Learning, Unsupervised Learning, Reinforcement Learning, NLP, Computer Vision, Time Series Forecasting
+
+**Deep Learning Architectures:**  CNN, RNN, LSTM, GANs, Transformers, Autoencoders, Siamese Networks
+
+**LLMs & GenAI Tools:**  LLaMA, Whisper, GPT, BERT, T5, Mistral, LangChain, Ollama, SmolAgents, TRL, PEFT
+
+**Data Handling & Preprocessing:**  Pandas, NumPy, Matplotlib, Seaborn, OpenCV, Feature Engineering
+
+**Deployment & MLOps:**  Docker, FastAPI, Django, Streamlit, MLflow, TensorFlow Serving, TorchServe
+
+**Monitoring & Observability:**  Arize Phoenix, openinference-instrumentation
+
+**Vector DBs & Retrieval:**  FAISS, Pinecone, Qdrant, Rank_BM25, sentence-transformers
+
+**Automation & UI:**  Playwright, Gradio, Streamlit
+
+**Others:**  Git, GitHub, Jupyter, Google Colab, E2B, pdfplumber, nltk
 
 ## 📫 Contact Me
 
