@@ -21,13 +21,13 @@ I am Harshini, Fueled by a deep-seated passion for Artificial Intelligence, I am
 
 **Data Handling & Preprocessing:**  Pandas, NumPy, Matplotlib, Seaborn, OpenCV, Feature Engineering
 
-**Deployment & MLOps:**  Docker, FastAPI, Django, Streamlit, MLflow, TensorFlow Serving, TorchServe
+**Deployment & MLOps:**  Docker, FastAPI, Django, Streamlit, MLflow
 
 **Monitoring & Observability:**  Arize Phoenix, openinference-instrumentation
 
 **Vector DBs & Retrieval:**  FAISS, Pinecone, Qdrant, Rank_BM25, sentence-transformers
 
-**Automation & UI:**  Playwright, Gradio, Streamlit
+**Automation & UI:**  Gradio, Streamlit
 
 **Others:**  Git, GitHub, Jupyter, Google Colab, E2B, pdfplumber, nltk
 
